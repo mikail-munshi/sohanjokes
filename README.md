@@ -28,7 +28,6 @@ sohan-roast-api/
 ├── package.json      # Project dependencies and metadata
 └── README.md         # Project documentation
 ```
-
 ---
 
 ## 💻 How to Use the API
