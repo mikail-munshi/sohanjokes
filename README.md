@@ -27,3 +27,23 @@ sohan-roast-api/
 ├── index.js          # Main server file & joke database
 ├── package.json      # Project dependencies and metadata
 └── README.md         # Project documentation
+```
+
+---
+
+## 💻 How to Use the API
+
+You can test and use this API in a few different ways:
+
+### 1. Via Web Browser
+Open your browser and visit:
+* To get a random joke: `http://localhost:3000/api/jokes/random`
+* To view all jokes: `http://localhost:3000/api/jokes`
+
+### 2. Via Terminal (`curl`)
+Run this command in your terminal while the server is running:
+```bash command
+curl http://localhost:3000/api/jokes/random
+```
+
+
